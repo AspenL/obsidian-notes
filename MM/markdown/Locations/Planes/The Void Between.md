@@ -1,0 +1,4 @@
+---
+aliases:
+  - Astral Plane
+---
