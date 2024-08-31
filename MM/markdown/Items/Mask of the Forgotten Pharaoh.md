@@ -2,7 +2,8 @@
 tags:
   - item
 aliases:
-  - Mummy's Mask, The Mask
+  - The Mask
+  - Mummy's Mask
 ---
 ## Mechanics
 #### Price

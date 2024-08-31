@@ -6,7 +6,7 @@ aliases:
 **Summary:** 
 
 **Involved Groups:** 
-**Involved NPCs:** 
+**Involved NPCs:** [[Falto Walhaz]]
 
 **Involved Players:** 
 

@@ -6,12 +6,12 @@ aliases:
 **Summary:** 
 
 **Involved Groups:** 
-**Involved NPCs:** 
+**Involved NPCs:** [[Milo's Professor]]
 
-**Involved Players:** 
+**Involved Players:** [[Milo]]
 
 **McGuffins:** 
-**Location/Circumstance:** 
+**Location/Circumstance:** [[Parched Dunes]]
 
 ## Description 
 

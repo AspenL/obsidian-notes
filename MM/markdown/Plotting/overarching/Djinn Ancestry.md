@@ -6,9 +6,9 @@ aliases:
 **Summary:** 
 
 **Involved Groups:** 
-**Involved NPCs:** 
+**Involved NPCs:** [[Sigrun Firehair]]
 
-**Involved Players:** 
+**Involved Players:** [[Rana]]
 
 **McGuffins:** 
 **Location/Circumstance:** 

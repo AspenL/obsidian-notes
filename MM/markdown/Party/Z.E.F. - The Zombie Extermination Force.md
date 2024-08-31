@@ -4,6 +4,8 @@ tags:
   - organization
   - players
   - party
+aliases:
+  - the party
 ---
 The Party was formed in [[Wati]] on the 27th of [[Heliope Calendar#Ondus|Ondus]] 4714 AR
 
