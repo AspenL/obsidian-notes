@@ -4,6 +4,7 @@ aliases:
   - Baator
   - Hell
   - Avernus
+  - The Market of Masks
 tags:
   - location
 ---
