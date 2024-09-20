@@ -27,8 +27,9 @@ Recording: [[MM/attachments/audio/session recording/]]
 
 The party will have to face overwhelming odds
 
-Do a buncha monologues if they die
+Do the [[Monologue]] if they die
 
+Otherwise they can feel free to explore the villa and find the loot. The caligni there will warn them of dangerous strangers and give them a star chart piece
 
 
 ## In sum
