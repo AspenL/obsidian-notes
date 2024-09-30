@@ -10,14 +10,15 @@ aliases:
 ### Type
 Military
 ### Goals
-Enforce Bastet's will
+Enforce [[Bastet]]'s will
 ### Location
 Suthelia
 ### Influence
 Not much
 ## Members
 **Leaders:** 
-
+[[Church of Bastet]]
+[[Fayeth El'Bastet]]
 **Involved NPCs and Groups:** 
 
 

@@ -4,7 +4,7 @@ tags:
 ---
 **Moniker:** City of the Reed People
 **Government:** Theocracy
-**Leader:** [[Haty'a Deka An'Keret|The High Priestess of Thanagolth]]
+**Leader:** [[Deka An'Keret|Haty'a Deka An'Keret]]
 **Key Figures:** 
 
 
