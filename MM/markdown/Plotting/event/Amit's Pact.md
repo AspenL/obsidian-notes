@@ -6,15 +6,92 @@ tags:
 
 Amit has touched Kida's Gemstone, he will be affected by the <i>Dream</i> spell.
 
-Amit is in his childhood home. The village outside is dark and indistinct
+Amit is in his childhood home. 
+### Option A
+```
+You ride in to the village
+Your first solo ride, freshly turned thirteen not long ago
+Turban covering your ears and a scarf over your face
+Protecting you from the sun and wind
 
-There is a sandstorm in the sky, stars sparking like firecrackers as it moves, creeping closer and closer.
+As you crest the dune you are caught in wind
+A sandstorm blows through the village
+Streets are empty and tossed as curtains whip about
+
+You can navigate to your home, same as it ever was
+[What did your childhood home look like Amit?]
+
+Same as it ever was, except...
+The door is ajar, the candles have blown out
+The window shutters bang against the walls
+Wind rages outside
+It is the middle of the day and the world
+is dark with sand and dust
+
+
+[You hear the sound of drums and shrills]
+
+Through the breaks in the sand you can see
+There is no light in the other houses
+Their doors just as ajar
+
+[What do you do Amit?]
+
+The house has signs of a struggle
+The pottery cracked on the floor
+Slash marks on the wall
+A pillow torn open as is the carpet under it
+
+Blood, still fresh and dripping
+
+You hear cackles and laughter
+Some foreign tongue
+A crack and another and another
+Reverberating with a tinitus ring in your ears
+
+[You hear a scream from outside]
+
+It is a woman's voice
+A pained guttural shout in anguish
+It is your mother's
+
+[Amit? What was your father's name?]
+
+She cries out to him
+
+[You are unarmed. Where is your father's weapon?]
+
+The sheath/scabbard/bag is empty
+You hear Anat crying
+Everything freezes into darkness
+
+[What emotion do you feel right now Amit?]
+
+Everything is green.
+
+You are shackled to the walls, straining to move
+
+A Voice asks.
+"Would you have had the strenght?"
+"If the weapon was there?"
+
+"Let your instinct take over, let the fury run amok, let the lightning flow in your veins"
+"Let the power flow through the shackles to you"
+
+"I lie chained and yet I offer a hand, will you take it?"
+```
+### Option B
+```
+The village outside is dark and indistinct
 
 The house is empty.
 
 All houses are empty.
+
+There is a sandstorm in the sky, stars sparking like firecrackers as it moves, creeping closer and closer.
+
 There are tracks of people being dragged away.
-Toward the horizon is a flame, spiraling and rising high, shadows dancing around it.
+Atop a dune toward the horizon is a flame, spiraling and rising high, shadows dancing around it.
 The smoke against the night sky forms the shape of a gnoll eating a child.
 
 There is a scream, Amit recognizes it as Anat.
@@ -24,10 +101,11 @@ Followed by a peel of lightning from the storm.
 There is a glowing sword in the sandstone nearby.
 
 If taken Amit talks to Kida.
+```
 
 
 ---
-Barbarian Path
+## Barbarian Path
 
 Path of the Emerald Mantis
 
