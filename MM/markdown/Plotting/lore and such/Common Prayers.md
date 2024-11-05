@@ -7,7 +7,7 @@ tags:
 
 ## Azion
 ### Holy Text
-Whose holy text is the [[Ecstasy in Fright]], a scroll of exultations, libations, canticles and incantations to incite a hypnotic transe while under the influence. Often written in toxic inks. 
+Whose holy text is the [[Ecstasy in Fright]], a scroll of exultation, libations, canticles and incantations to incite a hypnotic trance while under the influence. Often written in toxic inks. 
 ### Prayers 
 "We pray to you our lord in darkness, we praise your might and the flash of your divine wrath upon those who stand against us.
 
