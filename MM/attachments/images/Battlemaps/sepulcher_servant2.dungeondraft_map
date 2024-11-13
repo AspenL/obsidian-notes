@@ -44,8 +44,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 4263.08, 1852.75 )",
-			"camera_zoom": 1.6,
+			"camera_position": "Vector2( 5047.35, 5317.15 )",
+			"camera_zoom": 5.333333,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -148,15 +148,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"Bar",
-					"Bed",
-					"Chair",
-					"Desk",
-					"Fixture",
-					"Pillow",
-					"Rug",
-					"Shelf",
-					"Table"
+					"Colorable"
 				]
 			},
 			"scatter_tags_memory": {
@@ -169,7 +161,7 @@
 				"mode": "all",
 				"scroll": 0,
 				"selected": [
-					"res://textures/objects/activities/cooking/food_onion_06.png"
+					"res://textures/objects/decor/dungeon/sarcophagus_01.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -182,9 +174,9 @@
 				"search_strictness": 0.5
 			},
 			"path_library_memory": {
-				"scroll": 0,
+				"scroll": 5310,
 				"selected": [
-					"res://textures/paths/wagon_trail.png"
+					"res://packs/MiS6cyNC/textures/paths/Simple_Bookshelf.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -195,7 +187,7 @@
 		"format": 3,
 		"width": 31,
 		"height": 46,
-		"next_node_id": "7cf",
+		"next_node_id": "80b",
 		"next_prefab_id": "5",
 		"msi": {
 			"offset_map_size": 512,
@@ -209,7 +201,7 @@
 		"building_wear": "res://textures/wear/grime.png",
 		"wall_shadow": true,
 		"object_shadow": false,
-		"trace_image_visible": true,
+		"trace_image_visible": false,
 		"embedded": {
 
 		},
@@ -1675,28 +1667,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"6": "res://textures/tilesets/simple/tileset_carpet.png",
-						"7": "res://textures/tilesets/simple/tileset_concrete.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"9": "res://textures/tilesets/simple/tileset_cobble.png",
-						"10": "res://textures/tilesets/simple/tileset_cave.png",
-						"11": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"12": "res://textures/tilesets/simple/tileset_sewers.png",
-						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"14": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"15": "res://textures/tilesets/simple/tileset_diamond.png",
-						"16": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"17": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"18": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"19": "res://textures/tilesets/simple/tileset_ornate.png",
-						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"21": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"22": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"2": "res://textures/tilesets/simple/tileset_carpet.png",
+						"3": "res://textures/tilesets/simple/tileset_concrete.png",
+						"4": "res://textures/tilesets/simple/tileset_cave.png",
+						"5": "res://textures/tilesets/simple/tileset_cobble.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"7": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"9": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"10": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"11": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"12": "res://textures/tilesets/simple/tileset_diamond.png",
+						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"14": "res://textures/tilesets/simple/tileset_ornate.png",
+						"15": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"16": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"17": "res://textures/tilesets/simple/tileset_sewers.png",
+						"18": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"19": "res://textures/tilesets/simple/tileset_straw.png",
+						"20": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"22": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"23": "res://textures/tilesets/simple/tileset_worn_cobble.png"
 					}
 				},
 				"patterns": [
@@ -1704,7 +1696,19 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 4352, 1280, 4352, 1792, 4096, 1792, 4096, 2560, 5632, 2560, 5632, 1792, 5376, 1792, 5376, 1280 )",
+						"points": "PoolVector2Array( 2560, 5376, 3072, 5888, 3072, 7680, 2560, 8192, 768, 8192, 256, 7680, 256, 5888, 768, 5376 )",
+						"layer": -100,
+						"color": "ffc7ab82",
+						"outline": false,
+						"texture": "res://textures/tilesets/simple/tileset_carpet.png",
+						"rotation": 0,
+						"node_id": "80a"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 4352, 1280, 4352, 1536, 4096, 1536, 4096, 2560, 5632, 2560, 5632, 1792, 5376, 1792, 5376, 1280 )",
 						"layer": 100,
 						"color": "ffb6deea",
 						"outline": false,
@@ -2185,7 +2189,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 4096, 1792, 4224, 1792, 4224, 1920, 4096, 1920 )",
+						"points": "PoolVector2Array( 4224, 1792, 4224, 1792, 4224, 1920, 4096, 1920, 4096, 1792 )",
 						"layer": 100,
 						"color": "ff7993ab",
 						"outline": false,
@@ -2329,7 +2333,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 4352, 1536, 4480, 1536, 4480, 1664, 4352, 1664 )",
+						"points": "PoolVector2Array( 4352, 1536, 4480, 1536, 4480, 1664, 4480, 1664, 4352, 1664 )",
 						"layer": 100,
 						"color": "ff7993ab",
 						"outline": false,
@@ -2341,13 +2345,49 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 4352, 1792, 4480, 1792, 4480, 1920, 4352, 1920 )",
+						"points": "PoolVector2Array( 4480, 1792, 4480, 1792, 4480, 1920, 4352, 1920, 4352, 1792 )",
 						"layer": 100,
 						"color": "ff7993ab",
 						"outline": false,
 						"texture": "res://textures/tilesets/simple/tileset_carpet.png",
 						"rotation": 0,
 						"node_id": "6d5"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 4096, 1536, 4224, 1536, 4224, 1664, 4096, 1664 )",
+						"layer": 100,
+						"color": "ff7993ab",
+						"outline": false,
+						"texture": "res://textures/tilesets/simple/tileset_carpet.png",
+						"rotation": 0,
+						"node_id": "7d1"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 4224, 1664, 4352, 1664, 4352, 1792, 4224, 1792 )",
+						"layer": 100,
+						"color": "ff7993ab",
+						"outline": false,
+						"texture": "res://textures/tilesets/simple/tileset_carpet.png",
+						"rotation": 0,
+						"node_id": "7d2"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 3584, 1536, 4096, 1536, 4096, 2048, 3584, 2048 )",
+						"layer": 100,
+						"color": "ff7993ab",
+						"outline": false,
+						"texture": "res://textures/tilesets/simple/tileset_carpet.png",
+						"rotation": 0,
+						"node_id": "7d4"
 					},
 					{
 						"position": "Vector2( 0, 0 )",
@@ -2423,6 +2463,20 @@
 					}
 				],
 				"walls": [
+					{
+						"points": "PoolVector2Array( 4096, 1536, 3584, 1536, 3584, 2048, 4096, 2048 )",
+						"texture": "res://textures/walls/concrete.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "7d3",
+						"portals": [
+
+						]
+					},
 					{
 						"points": "PoolVector2Array( 7680, 3328, 7371.25, 3329.32 )",
 						"texture": "res://textures/walls/wood_02.png",
@@ -2745,7 +2799,7 @@
 				"water": {
 					"disable_border": false,
 					"tree": {
-						"ref": 260323142,
+						"ref": -1493344106,
 						"polygon": "PoolVector2Array(  )",
 						"join": 0,
 						"end": 0,
@@ -2755,7 +2809,7 @@
 						"blend_distance": 0,
 						"children": [
 							{
-								"ref": 597050038,
+								"ref": -1670496070,
 								"polygon": "PoolVector2Array( 3072, 5888, 3072, 6400, 2969, 6331, 2966, 6333, 2941, 6302, 2880, 6293, 2811, 6306, 2784, 6280, 2759, 6246, 2718, 6274, 2690, 6304, 2628, 6306, 2593, 6330, 2553, 6365, 2488, 6363, 2475, 6411, 2431, 6437, 2376, 6419, 2293, 6440, 2274, 6410, 2230, 6372, 2197, 6344, 2219, 6277, 2249, 6230, 2261, 6217, 2314, 6172, 2230, 6170, 2183, 6177, 2121, 6188, 2047, 6170, 1980, 6187, 1914, 6172, 1880, 6132, 1859, 6113, 1818, 6090, 1801, 6060, 1725, 6055, 1664, 6053, 1624, 6007, 1602, 5988, 1544, 5980, 1480, 5984, 1418, 5982, 1334, 5985, 1282, 5990, 1203, 5994, 1172, 6018, 1144, 6039, 1095, 6044, 1017, 6059, 960, 6046, 892, 6053, 855, 6091, 819, 6101, 778, 6110, 746, 6137, 716, 6164, 649, 6181, 575, 6188, 509, 6176, 438, 6184, 419, 6200, 388, 6183, 364, 6196, 330, 6183, 299, 6151, 302, 6132, 256, 6144, 256, 5888, 768, 5376, 2560, 5376 )",
 								"join": 0,
 								"end": 0,
@@ -2782,9 +2836,6 @@
 							"texture": "res://textures/materials/ice_tile.png",
 							"smooth": false
 						}
-					],
-					"100": [
-
 					]
 				},
 				"paths": [
@@ -3328,6 +3379,23 @@
 						"loop": false,
 						"node_id": "79b",
 						"locked": true
+					},
+					{
+						"position": "Vector2( 3328, 3328 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -640, 0, -768, 0, -1280, -512 )",
+						"smoothness": 1,
+						"texture": "res://packs/MiS6cyNC/textures/paths/Simple_Bookshelf.png",
+						"width": 196,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "7ed"
 					}
 				],
 				"objects": [
@@ -3337,7 +3405,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://textures/objects/structures/stairs/stairs_12.png",
-						"layer": 100,
+						"layer": -100,
 						"shadow": true,
 						"block_light": false,
 						"node_id": "4e"
@@ -4239,6 +4307,542 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "7cd"
+					},
+					{
+						"position": "Vector2( 3687.08, 1943.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7d5"
+					},
+					{
+						"position": "Vector2( 3773.48, 1941.55 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7d6"
+					},
+					{
+						"position": "Vector2( 3709.48, 1943.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7d7"
+					},
+					{
+						"position": "Vector2( 3752.68, 1943.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7d8"
+					},
+					{
+						"position": "Vector2( 3727.08, 1943.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7d9"
+					},
+					{
+						"position": "Vector2( 3722.28, 1922.35 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7db"
+					},
+					{
+						"position": "Vector2( 3690.28, 1643.95 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7dc"
+					},
+					{
+						"position": "Vector2( 3765.48, 1656.75 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7dd"
+					},
+					{
+						"position": "Vector2( 3735.08, 1632.75 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7de"
+					},
+					{
+						"position": "Vector2( 3709.48, 1677.55 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7df"
+					},
+					{
+						"position": "Vector2( 3704.68, 1672.75 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e0"
+					},
+					{
+						"position": "Vector2( 3719.08, 1648.75 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e2"
+					},
+					{
+						"position": "Vector2( 3725.48, 1664.75 )",
+						"rotation": -0.226893,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e3"
+					},
+					{
+						"position": "Vector2( 3723.88, 1925.55 )",
+						"rotation": -0.226893,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7e4"
+					},
+					{
+						"position": "Vector2( 3931.88, 1933.55 )",
+						"rotation": -0.226893,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7e5"
+					},
+					{
+						"position": "Vector2( 4000.68, 1935.15 )",
+						"rotation": -0.226893,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7e6"
+					},
+					{
+						"position": "Vector2( 3955.88, 1925.55 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e7"
+					},
+					{
+						"position": "Vector2( 3983.08, 1947.95 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e8"
+					},
+					{
+						"position": "Vector2( 3963.88, 1944.75 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "7e9"
+					},
+					{
+						"position": "Vector2( 3954.28, 1943.15 )",
+						"rotation": 1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/Ew85uu2b/textures/objects/Skront Expanded Terrain/Colorable/Cut_Stone_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb6deea",
+						"node_id": "7eb"
+					},
+					{
+						"position": "Vector2( 3456, 2560 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/desk_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7ef"
+					},
+					{
+						"position": "Vector2( 3456, 2816 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/desk_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7f0"
+					},
+					{
+						"position": "Vector2( 3068.68, 1998.15 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/desk_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7f1"
+					},
+					{
+						"position": "Vector2( 3200.68, 2126.15 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/desk_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7f2"
+					},
+					{
+						"position": "Vector2( 3358.68, 2286.15 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/desk_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7f3"
+					},
+					{
+						"position": "Vector2( 2432.68, 1928.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f4"
+					},
+					{
+						"position": "Vector2( 2186.68, 2188.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f5"
+					},
+					{
+						"position": "Vector2( 2434.68, 1924.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f6"
+					},
+					{
+						"position": "Vector2( 2186.68, 2188.15 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f7"
+					},
+					{
+						"position": "Vector2( 2816.68, 1666.15 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f8"
+					},
+					{
+						"position": "Vector2( 2940.68, 1808.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7f9"
+					},
+					{
+						"position": "Vector2( 2674.68, 1808.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7fa"
+					},
+					{
+						"position": "Vector2( 2186.68, 1938.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "7fb"
+					},
+					{
+						"position": "Vector2( 2796.68, 1654.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/dining/pitcher.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "7fc"
+					},
+					{
+						"position": "Vector2( 2160.68, 1910.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/dining/pitcher.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffac584c",
+						"node_id": "7fd"
+					},
+					{
+						"position": "Vector2( 2914.68, 1772.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/dining/pitcher.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "fff3a768",
+						"node_id": "7ff"
+					},
+					{
+						"position": "Vector2( 2678.68, 1768.15 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/dining/pitcher.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffae9254",
+						"node_id": "800"
+					},
+					{
+						"position": "Vector2( 2242.68, 1952.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/dining/pitcher.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffae9254",
+						"node_id": "801"
+					},
+					{
+						"position": "Vector2( 2928.68, 1858.15 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "802"
+					},
+					{
+						"position": "Vector2( 2984.68, 1820.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "803"
+					},
+					{
+						"position": "Vector2( 2984.68, 1764.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "804"
+					},
+					{
+						"position": "Vector2( 2728.68, 1822.15 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "805"
+					},
+					{
+						"position": "Vector2( 2676.68, 1850.15 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "806"
+					},
+					{
+						"position": "Vector2( 2874.68, 1674.15 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "807"
+					},
+					{
+						"position": "Vector2( 2172.68, 1984.15 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/MiS6cyNC/textures/objects/Skront_Books/Light_Candle_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "808"
+					},
+					{
+						"position": "Vector2( 2698.68, 2426.15 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://textures/objects/decor/dungeon/sarcophagus_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "809"
 					}
 				],
 				"lights": [
@@ -4254,7 +4858,7 @@
 				},
 				"texts": [
 					{
-						"text": "draft_timer mod data: [[1730733793,2566]]",
+						"text": "draft_timer mod data: [[1730733793,2566],[1730755579,9302],[1730802221,669]]",
 						"position": "Vector2( -4000, -4000 )",
 						"font_name": "Libre Baskerville",
 						"font_size": 8,
@@ -4263,7 +4867,7 @@
 						"node_id": "2565"
 					},
 					{
-						"text": "draft_timer mod data: [[1730755579,9302]]",
+						"text": "draft_timer mod data: [[1730804319,874]]",
 						"position": "Vector2( -4000, -4000 )",
 						"font_name": "Libre Baskerville",
 						"font_size": 8,
