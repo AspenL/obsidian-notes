@@ -1,6 +1,0 @@
----
-aliases:
-  - Purgatory
-  - Boneyard
-  - Afterlife
----

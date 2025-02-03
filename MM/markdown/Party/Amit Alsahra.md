@@ -10,8 +10,8 @@ npc_info:
 **Player:** Micah
 **Class:** Ranger (Dune Strider)
 **Race:** Khenra
-**Background:** Outlander
-**Trait:** Undead Hunter
+**Background:** 
+**Trait:** 
 **God:** [[Anubis]]
 
 **Connections:** [[Anat Alsahra]], [[Bahjut Everhand]], [[Wati]]

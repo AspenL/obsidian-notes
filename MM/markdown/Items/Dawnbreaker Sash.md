@@ -23,7 +23,6 @@ The sash yearns for sunlight, making the wearer always aware of how deep they ar
 
 While wearing the sash you may cast Light and Control Flames at will.
 
-Currently worn by [[Amon]]
 #### Origin
 
 It was created by the acolytes of Ra in the 

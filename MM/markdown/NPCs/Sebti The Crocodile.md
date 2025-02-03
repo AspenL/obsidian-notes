@@ -14,5 +14,5 @@ npc_info:
 
 Demeanor and Character: 
 
-Relations: Friend of [[Z.E.F. - The Zombie Extermination Force|the party]]
+Relations:
 Notes:
